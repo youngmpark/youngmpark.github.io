@@ -1,3 +1,8 @@
+header .row,
+footer .row{
+	display: flex;
+	align-items: center;
+}
 body {
 	height: 100%;
 	margin: 0;

@@ -3,7 +3,10 @@ body {
 	margin: 0;
 	text-align: center;
 	width: 100%;
-	font-family: Lato, sans-serif;
+	font-family: Lato;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
 	color:AntiqueWhite;
 	font-size:29px;
 }

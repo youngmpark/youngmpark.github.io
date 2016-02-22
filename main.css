@@ -3,18 +3,7 @@ footer .row{
 	display: flex;
 	align-items: center;
 }
-body {
-	height: 100%;
-	margin: 0;
-	text-align: center;
-	width: 100%;
-	font-family: 'Lato' sans-serif;
-	font-style: normal;
-	font-variant: normal;
-	font-weight: 400;
-	color:AntiqueWhite;
-	font-size:29px;
-}
+
 
 footer. col-sm-8{
 	display: flex;

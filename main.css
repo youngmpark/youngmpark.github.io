@@ -10,3 +10,8 @@ body {
 	color:AntiqueWhite;
 	font-size:29px;
 }
+
+footer. col-sm-8{
+	display: flex;
+	justify-content: flex-end;
+}

@@ -126,6 +126,7 @@ h6 {
     color: #f8f8f8;
     background: url(../img/LOGO.png) no-repeat center center;
     background-size: contain;
+    position: right;
 }
 
 .banner h2 {

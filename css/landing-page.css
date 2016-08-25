@@ -37,6 +37,7 @@ h6 {
 }
 
 #resume {
+    position: relative;
     background-size: contain;
 }
 

@@ -28,8 +28,11 @@ h6 {
 #logo {
     height: 200%;
     margin-top: -10px;
-    
-    
+
+}
+
+#myface {
+    height: 100%;
 }
 
 .lead {

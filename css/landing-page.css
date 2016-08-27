@@ -49,6 +49,11 @@ h6 {
     background-size: 50%,50%;
 }
 
+img {
+    display: block;
+    margin: 0 auto;
+}
+
 .lead {
     font-size: 18px;
     font-weight: 400;

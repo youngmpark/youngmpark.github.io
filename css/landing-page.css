@@ -27,8 +27,11 @@ h6 {
 
 #logo {
     height: 100%;
-    
 
+}
+
+#HM {
+    position: relative;
 }
 
 #myface {

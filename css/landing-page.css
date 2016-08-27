@@ -138,6 +138,7 @@ h6 {
 }
 
 .section-heading-spacer2 {
+    text-align: center;
     width: 200px;
     border-top: 3px solid #e7e7e7;
 }

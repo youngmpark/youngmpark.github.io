@@ -21,6 +21,10 @@ h6 {
     font-weight: 700;
 }
 
+#inputs{
+     text-align: center;
+}
+
 .topnav {
     font-size: 14px; 
 }

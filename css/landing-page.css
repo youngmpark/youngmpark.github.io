@@ -21,8 +21,8 @@ h6 {
     font-weight: 700;
 }
 
-#Message {
-    height:300px;
+#submit {
+    text-align: right;
 }
 
 .topnav {

@@ -54,10 +54,11 @@ img {
     margin: 0 auto;
 }
 
-input{
+input[type=text] {
     width: 100%;
-    padding-top:50px;
-    position relative;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
 }
 .lead {
     font-size: 18px;

@@ -67,6 +67,10 @@ input[type=text] {
     margin: 8px 0;
     box-sizing: border-box;
 }
+.design{
+    padding-top:20px;
+    padding-bottom:20px;
+}
 .lead {
     font-size: 18px;
     font-weight: 400;
